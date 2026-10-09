@@ -1,10 +1,27 @@
-I built a responsive landing page as part of my Web Development internship at CodeOrbit Tech! 🚀
+# Responsive Landing Page
 
-The layout adapts smoothly to mobile, tablet and desktop screens, and I built it with HTML and CSS.
+A responsive landing page whose layout adapts to mobile, tablet and desktop screens.
 
-🔗 Live: https://kavya-n-biradar.github.io/landing-page
-💻 Code: https://github.com/kavya-n-biradar/landing-page
+🔗 **Live Demo:** https://kavya-n-biradar.github.io/landing-page
+📁 **GitHub Repository:** https://github.com/kavya-n-biradar/landing-page
 
-Thank you @codeorbittech for this learning opportunity!
+## Technologies Used
+- HTML5
+- CSS3 (responsive layout)
+- JavaScript
 
-#CodeOrbitTech #Internship #WebDevelopment #HTML #CSS
+## Setup Instructions
+1. Clone the repository:
+   git clone https://github.com/kavya-n-biradar/landing-page.git
+2. Open the folder:
+   cd landing-page
+3. Open `index.html` in any web browser. No installation is needed.
+
+## Project Structure
+- `index.html`: page content
+- `style.css`: styling and responsive layout
+- `script.js`: page interactions
+
+## Author
+Kavya Biradar
+[LinkedIn](https://www.linkedin.com/in/kavya-biradar-a0b77a284) · [GitHub](https://github.com/kavya-n-biradar)
